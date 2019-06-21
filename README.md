@@ -4,7 +4,7 @@
 `brew install php`
 
 ### Install Composer
-Run the following commands to install [Composer](https://getcomposer.org/download/):
+Run the following commands to install [Composer](https://getcomposer.org/download/) in current directory:
 
 ```
 php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
